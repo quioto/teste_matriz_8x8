@@ -31,5 +31,5 @@ final_coord = []
 for c in matrix:
     c /= 24
     final_coord.append(c)
-
+print("test")
 print(final_coord)
